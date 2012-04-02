@@ -2,4 +2,4 @@ AsGaeilge
 Written in PHP and Javascript/Jquery
 Takes a word from a user, as they type dynamically queries a database of previous translations, if not in the 
 database query the google Translate API and then inserts it into the database for future reference. 
-Google API key required.  
+Google API key required.   Available on request.
